@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **UI/UX design in web and mobile applications**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1eoYHtbM5QxdObYz55V1HEobDTvLaR3jD/view?usp=drive_link](https://drive.google.com/file/d/1eoYHtbM5QxdObYz55V1HEobDTvLaR3jD/view?usp=drive_link)
-
 - ⚡ Fun fact **I enjoy video editing and making content!**
 
 <h3 align="left">Connect with me:</h3>
